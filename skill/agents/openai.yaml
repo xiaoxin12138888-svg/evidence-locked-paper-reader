@@ -1,0 +1,4 @@
+interface:
+  display_name: "结构化论文导读"
+  short_description: "抓住研究主线、核心机制和决定性证据讲懂一篇论文"
+  default_prompt: "使用 $evidence-locked-paper-reader 在聊天中讲懂这篇论文，以完整理解为前提，围绕研究问题、必要性、研究设计或方法、整体流程、决定性证据、结论边界和主要启发展开；删除重复与无关细节，但不省略支撑核心结论的必要信息，不生成文件或审计内容。"
