@@ -147,4 +147,4 @@ metadata:
 
 ## Attribution
 
-This skill is an original competition-oriented synthesis informed by open-source paper-reading workflows. Retain `LICENSE`, `THIRD_PARTY_NOTICES.md`, and the upstream attribution records when redistributing the skill.
+This skill is an original evidence-grounded synthesis informed by open-source paper-reading workflows. Retain `LICENSE`, `THIRD_PARTY_NOTICES.md`, and the upstream attribution records when redistributing the skill.
